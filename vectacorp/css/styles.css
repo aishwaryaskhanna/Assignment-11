@@ -1,0 +1,33 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  .carousel-indicators li {
+      border-radius: 100%;
+      width: 12px;
+      height: 12px;
+      } 
+
+  .nav-container {
+      margin: 10px 0px 10px 0px;
+      z-index: 5;
+  }   
+
+  #content{
+      margin-top: 12px; 
+  } 
+
+  #mainContent{
+    overflow: scroll; 
+    height: 150px;
+}
